@@ -1,7 +1,7 @@
 # Hi there 👋
 ## about kansuke3
 
-### 学生をしている I am student.
+### 学生をしている/I am student.
  日々学業に勤しんでいます。
 
 ### github
@@ -9,10 +9,10 @@
  - githubには前から興味があり、はじめました。
  - OSS貢献などもできたらいいと思っています。
 
-### 主な使用言語 Main language used
+### 主な使用言語/Main language used
  - C/C++ですが、まだまだ初心者なのでこれから頑張りたいです。
  - javaに入門中です。
 
-## 目標 Target
+## 目標/Target
  - OSをつくる。
  - コンパイラをつくる。
