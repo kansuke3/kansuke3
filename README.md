@@ -15,10 +15,12 @@
  - OSをつくる。
  - コンパイラをつくる。
 
-<h1>
-H     H HELLOH H      H        LEH
-E     E E      E      E       L   H
-LHELLOL LHELLO L      L       O   E
-L     L L      L      L       H   O
-O     O OHELLO OHELLO OHELLO   ELL
-</h1>
+<hr>
+
+H     H HELLOH H      H        LEH<br>
+E     E E      E      E       L   H<br>
+LHELLOL LHELLO L      L       O   E<br>
+L     L L      L      L       H   O<br>
+O     O OHELLO OHELLO OHELLO   ELL<br>
+
+<hr>
