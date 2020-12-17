@@ -16,11 +16,11 @@
  - コンパイラをつくる。
 
 <hr>
-
+<pre>
 H     H HELLOH H      H        LEH<br>
 E     E E      E      E       L   H<br>
 LHELLOL LHELLO L      L       O   E<br>
 L     L L      L      L       H   O<br>
 O     O OHELLO OHELLO OHELLO   ELL<br>
-
+</pre>
 <hr>
