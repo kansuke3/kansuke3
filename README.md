@@ -15,4 +15,6 @@
  - OSをつくる。
  - コンパイラをつくる。
  
- <script>let a=0;</script>
+<style>
+ calc(1+1)
+</style>
